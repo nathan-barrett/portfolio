@@ -64,3 +64,8 @@ ol {
 .bg_orange {
   background-color: #D9853B;
 }
+
+.btn-primary {
+  background-color: #D9853B;
+  border-color: #558C89;
+}
