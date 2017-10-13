@@ -41,11 +41,26 @@
 
 .buko {
   float: left;
-  height: auto;
+  margin-right: 8px;
+  margin-top: 12px;
 }
 
 ol {
   margin-left: 400px;
 }
 
+.bg_eggshell {
+  background-color: #ECECEA;
+}
+
+.bg_lightblue {
+  background-color: #74AFAD;
+}
+
+.bg_darkblue {
+  background-color: #558C89;
+}
+
+.bg_orange {
+  background-color: #D9853B;
 }
