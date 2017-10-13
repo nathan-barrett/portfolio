@@ -22,3 +22,12 @@
 .project-row img {
   max-height: 200px;
 }
+
+.card-about {
+  display: flex;
+}
+#comic-photo {
+  border-radius: 0;
+  width: auto;
+  height: auto;
+}
