@@ -1,5 +1,5 @@
-.card img {
-  height: 50%;
+.card-body img {
+  height: 35%;
   width: 50%;
   border-radius: 10%;
   padding-left: 4px;
@@ -28,6 +28,24 @@
 }
 #comic-photo {
   border-radius: 0;
-  width: auto;
+  width: 99%;
+
+}
+.size-about-me {
+  font-size: 18px;
+}
+
+.row.one {
+  display: flex-row:
+}
+
+.buko {
+  float: left;
   height: auto;
+}
+
+ol {
+  margin-left: 400px;
+}
+
 }
