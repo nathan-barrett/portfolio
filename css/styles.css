@@ -1,4 +1,13 @@
 .card img {
   height: 50%;
   width: 50%;
+  border-radius: 10%;
+  padding-left: 4px;
+}
+.card-header {
+  text-align: center;
+}
+
+.card-body {
+  max-height: 748px;
 }
