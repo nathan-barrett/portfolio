@@ -12,6 +12,7 @@ _
 * _Clone the portfolio repository through terminal_
 * _enter git clone https://github.com/nathan-barrett/portfolio_
 * _open in atom through terminal: atom /portfolio . _
+* _in addition you can go directly to the github pages site at "nathan-barrett.github.io/portfolio"
 
 ## Known Bugs
 
